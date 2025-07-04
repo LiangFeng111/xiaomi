@@ -1,3 +1,7 @@
+  # 依赖: qrcode
+  # 适用: 青龙面板
+  # 注意：此脚本不自动运行，需手动执行
+
 import requests
 import time
 import json

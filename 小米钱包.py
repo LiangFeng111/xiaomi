@@ -1,6 +1,5 @@
 # 百度搜索小米账号，抓包即可
 # cron "30 10 * * *" script-path=xiaomi/小米钱包.py, tag=小米钱包
-# 依赖: requests, urllib3
 # 适用: 青龙面板
 
 import os

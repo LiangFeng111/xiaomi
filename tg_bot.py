@@ -1,3 +1,7 @@
+# 依赖: requests, urllib3,python-telegram-bot==20.0
+# 适用: 青龙面板
+# 注意：此脚本不自动运行，需手动执行
+
 import json
 import datetime
 import os
