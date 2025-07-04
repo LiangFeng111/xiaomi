@@ -1,9 +1,7 @@
 import requests
 import time
 import json
-import base64
 from typing import List, Dict
-import qrcode
 import traceback
 import os
 
