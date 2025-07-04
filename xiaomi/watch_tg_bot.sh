@@ -1,5 +1,7 @@
 #!/bin/bash
 # 进入tg_bot.py所在目录（请根据实际情况修改路径）
+# cron "@root" script-path=xiaomi/watch_tg_bot.sh, tag=tg_bot进程守护
+# 适用: 青龙面板
 cd "$(dirname "$0")"
 
 # 检查tg_bot.py是否在运行，如果没有则启动
