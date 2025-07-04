@@ -1,9 +1,7 @@
 import json
 import datetime
-import subprocess
 import os
 import asyncio
-import signal
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from telegram.constants import MessageEntityType
