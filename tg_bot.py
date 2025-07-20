@@ -17,7 +17,7 @@ import login
 class Config:
     """配置管理类"""
     def __init__(self):
-        self.BOT_TOKEN = "7103453179:AAGwNDkB401xvzcGzbrnniKVx8f_E4S9a1A"
+        self.BOT_TOKEN = "sxx2024666"
         self.ADMIN_LIST = [5096026941]  # 默认超级管理员
         self.AUTH_FILE = "tg_auth_users.json"
         self._load_config()
