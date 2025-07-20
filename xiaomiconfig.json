@@ -2,19 +2,18 @@
     {
         "owner_id": 7031083843,
         "data": {
-            "userId": "2423574306",
-            "securityToken": "Xz8fJ/8z4uN0n9Msgo5eCQ==",
-            "passToken": "V1:DXmurwq2/R1BHTELu6obCQ7fYl0HWiYJBSevumba7FN3PYy7kgnErSYrgU2XdNiBW1Eilan8eiC3PJ3tzynz6FF10OlJOzRASz0F9lE4k0igwjxVzXE66z9Xp9PileXYbOz99j7B74+ekUoTW+HA98I3J3/HUw6S331ZgOYq4BecOhRrBrGCxAEWASJzWD5yBRce46YZsQmnotkzLEaSRzxCfEDZbtZOo4Yq5KhGBGWldhm9cplRXjZ0TJC9EZE/h+Jr/JH2eO6vnsPJeJV5NgyMpc1xMRCWm15svFH6Pao9gU5CeVkKW4ywixxwcxKt",
+            "userId": "",
+            "securityToken": ",
             "us": "啊荣",
             "log": "【账号信息】\n\n✨ 账号：啊荣 ID:2423574306\n📊 当前兑换视频天数：8.01天\n\n📅 2025-07-02 任务记录\n----------------------------------------\n⏰ 2025-07-02 01:54:50\n🎁 领到视频会员，+0.50天\n⏰ 2025-07-02 01:54:33\n🎁 领到视频会员，+0.25天\n⚠️ 执行异常：领取奖励失败：{'code': 10101, 'success': False, 'error': '没有机会了,请先完成任务'}\n========================================"
         }
     },
     {
-        "owner_id": 7031083843,
+        "owner_id": ,
         "data": {
             "us": "就这",
-            "userId": "2423574306",
-            "passToken": "V1:DXmurwq2/R1BHTELu6obCQ7fYl0HWiYJBSevumba7FN3PYy7kgnErSYrgU2XdNiBgyWuhbqmNSYiPwVMlQNvVPOpIIWmGKTtypUa8otLzntrbcD123/VbWRiIcyfaPzM9lGOadqKOUOpu6sSbVRaCT0wThu+xWI/1bVVUFKnz7lTOwV96EdQdDNYB/4rRb9u7q+fcs2VcPUyeAY0D6ey1P/xjcNPHcTtRvyOnM2o81aTAUiYyAP3HI5Hxh6h/vINBoVVmpseaBKR2UJa1i+nghOWUoM2PDVM3ku5Kf0Z1V/MWDAEUeSHq9tVD3vrkekH",
+            "userId": "",
+            "passToken": "",
             "securityToken": "55w1BZSDaZsvMse19GKdxQ==",
             "log": "【账号信息】\n\n✨ 账号：就这 ID:2423574306\n📊 当前兑换视频天数：8.01天\n\n📅 2025-07-02 任务记录\n----------------------------------------\n⏰ 2025-07-02 01:54:50\n🎁 领到视频会员，+0.50天\n⏰ 2025-07-02 01:54:33\n🎁 领到视频会员，+0.25天\n⚠️ 执行异常：领取奖励失败：{'code': 10101, 'success': False, 'error': '没有机会了,请先完成任务'}\n========================================"
         }
